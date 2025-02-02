@@ -5,8 +5,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/jeter-discord-fastj.jpg
-  favicon: assets/jeter-discord-fastj.jpg
+  logo: assets/fastj.jpg
+  favicon: assets/fastj.jpg
   features:
     - navigation.footer
   #icon:
